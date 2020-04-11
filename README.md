@@ -22,15 +22,15 @@ mvn install
 
 # Use Jar File Directly
 ```
-	java -jar geektrust.jar <path_to_input_file>
+java -jar geektrust.jar <path_to_input_file>
 ```
 	
 Input Format:
 ```
-	WEATHER ORBIT_1_TRAFFIC_SPEED ORBIT_2_TRAFFIC_SPEED 
+WEATHER ORBIT_1_TRAFFIC_SPEED ORBIT_2_TRAFFIC_SPEED 
 ```
 
 Output Format:
 ```
-	VEHICLE_NAME ORBIT_NO
+VEHICLE_NAME ORBIT_NO
 ```
